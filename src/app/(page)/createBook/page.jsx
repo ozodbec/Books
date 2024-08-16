@@ -14,7 +14,7 @@ function CreateBook() {
 
     try {
       await fetch(
-        "https://online-json-server-api.up.railway.app/project/66b6003c340dd55056fb6f45/books",
+        "https://json-api.uz/api/project/Kitoblar%20Markazi/books",
         {
           method: "POST",
           headers: {
